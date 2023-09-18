@@ -1,8 +1,8 @@
-### Hi there 👋, Vasilis Barmpagiannos
-#### I'm working with C and C++
+# Vasilis Barmpagiannos
+## I'm working with C and C++
 I'm Vasilis (you can call me Bill) from Greece and i'm a student. I like working on low level programming. I enjoy learning new languages and how the computer works.
 
-Skills: C, C++, SQL
+### Skills: C, C++, SQL
 
 - 🔭 I’m currently working on my project ideas 
 - 🌱 I’m currently learning SQL 
