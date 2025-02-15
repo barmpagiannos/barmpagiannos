@@ -2,7 +2,7 @@
 ### I'm working with C
 I'm Vasilis from Greece and i'm a student. I like working with low level programming languages. I enjoy learning new languages and how the computer works.
 
-### Skills: C, C++, Java, SQL
+### Skills: C, C++, Java, SQL, Python, Matlab
 
 - 🔭 I’m currently working on my project ideas
 - 🌱 I’m currently developing my Java skills
