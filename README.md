@@ -1,11 +1,11 @@
 # Vasilis Barmpagiannos
-### I'm working with C
-I'm Vasilis from Greece and i'm a student. I like working with low level programming languages. I enjoy learning new languages and how the computer works.
+### I'm working with Python
+I'm Vasilis from Greece and i'm a student. I like working coding and hardware design.
 
 ### Skills: C, C++, Java, SQL, Python, Matlab
 
 - 🔭 I’m currently working on my project ideas
-- 🌱 I’m currently developing my Java skills
+- 🌱 I’m currently developing my Python skills
 - 📫 How to reach me: vasilismparmp@hotmail.gr
 
 
