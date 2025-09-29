@@ -1,10 +1,10 @@
 # Vasilis Barmpagiannos
 ### I'm working with Python
-I'm Vasilis from Greece and i'm a student. I like coding, data analysis and hardware design.
+I'm Vasilis from Greece and i'm a student. I like coding, data analysis and hardware design. Interested in robotics.
 
 ### Skills: C, C++, Java, SQL, Python, Matlab, Verilog
 
-- 🔭 I’m currently doing my internship @ CERTHE https://www.certh.gr/root.en.aspx
+- 🔭 I completed my internship @ CERTHE https://www.certh.gr/root.en.aspx
 - 🌱 I’m currently developing my Python skills
 - 📫 How to reach me: vasilismparmp@hotmail.gr
 
