@@ -1,6 +1,6 @@
 # Vasilis Barmpagiannos
 ### I'm working with Python
-I'm Vasilis from Greece and i'm a student. I like coding, data analysis and hardware design. Interested in robotics.
+I'm Vasilis from Greece and i'm a student. I like coding, data analysis and machine learning. Interested in robotics.
 
 ### Skills: C, C++, Java, SQL, Python, Matlab, Verilog
 
