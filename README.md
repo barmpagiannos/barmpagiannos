@@ -2,7 +2,7 @@
 ### I'm working with Python
 I'm Vasilis from Greece and i'm a student. I like coding, data analysis and machine learning. Interested in robotics-physical AI.
 
-### Skills: I know a bit of C, C++, Java, SQL, Python, Matlab, Verilog
+### Skills: I know a bit of C, C++, Java, SQL, Matlab, Verilog
 
 - I completed my internship @ CERTHE https://www.certh.gr/root.en.aspx
 - I’m currently developing AI applications
