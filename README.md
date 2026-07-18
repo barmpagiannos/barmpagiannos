@@ -21,7 +21,7 @@ I'm Vasilis from Greece and i'm a student. I like coding, data analysis and mach
 - I’m currently developing AI applications
 - How to reach me: vasilismparmp@hotmail.gr
 
-Personal Website: https://barmpagiannos.github.io/website/
+Personal Website: [https://barmpagiannos.github.io/website/](https://barmpagiannos.github.io/my-website/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/barmpagiannos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vasilis_mpgn/)  
 
