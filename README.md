@@ -1,8 +1,8 @@
 # Vasilis Barmpagiannos
-### I'm working with Python
-I'm Vasilis from Greece and i'm a student. I like coding, data analysis and machine learning. Interested in robotics-physical AI.
+### I'm working with Python and SQL
+I'm Vasilis from Greece and i'm a student. I like coding, data science and machine learning. Interested in robotics.
 
-### Skills: I know a bit of C, C++, Java, SQL, Matlab, Verilog
+### Skills: I know a bit of C, C++, Java, Matlab, Verilog
 
 **Familiar with:**
 
@@ -16,6 +16,7 @@ I'm Vasilis from Greece and i'm a student. I like coding, data analysis and mach
 ![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL Connector](https://img.shields.io/badge/MySQL_Connector-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 - I completed my internship @ CERTHE https://www.certh.gr/root.en.aspx
 - I’m currently developing AI applications
