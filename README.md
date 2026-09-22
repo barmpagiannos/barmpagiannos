@@ -1,6 +1,6 @@
 # Vasilis Barmpagiannos
 ### I'm working with Python and SQL
-I'm Vasilis from Greece and i'm a student. I like coding, data science and machine learning. Interested in robotics.
+I'm Vasilis from Greece and i'm an Electrical and Computer Engineer. I like coding, data science and machine learning. Interested in robotics.
 
 ### Skills: I know a bit of C, C++, Java, Matlab, Verilog
 
