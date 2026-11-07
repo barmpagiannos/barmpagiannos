@@ -2,7 +2,9 @@
 ### I'm working with Python and SQL
 I'm Vasilis from Greece and i'm an Electrical and Computer Engineer. I like coding, data science and deep learning. Interested in robotics - physical AI.
 
-I like object oriented programming.
+In my spare time i develop full stack web applications.
+
+My hobby is solving object oriented programming exercises.
 
 ### Skills: I know a bit of C, C++, Java, Matlab, Verilog
 
