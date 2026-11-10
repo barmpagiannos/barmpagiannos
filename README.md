@@ -21,6 +21,7 @@ My hobby is solving object oriented programming exercises.
 ![MySQL Connector](https://img.shields.io/badge/MySQL_Connector-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 - I completed my internship @ CERTHE https://www.certh.gr/root.en.aspx
 - I’m currently developing AI applications
